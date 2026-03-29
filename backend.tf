@@ -7,7 +7,7 @@ terraform {
     encrypt      = true
 
     assume_role = {
-      role_arn    = "arn:aws:iam::597787105491:role/Engineer"
+      role_arn = "arn:aws:iam::597787105491:role/Engineer"
     }
   }
 }
