@@ -1,0 +1,6 @@
+terraform.tfvars
+.terraform.lock.hcl
+stackdevops_kpUS1.ppk
+.terraform
+terraform.tfstate
+terraform.tfstate.backup 
